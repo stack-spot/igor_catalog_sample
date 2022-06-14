@@ -1,0 +1,20 @@
+type: app
+description: App created with stackfile
+template: stack1/template_app
+inputs:
+  project_name: project_name_app
+plugins:
+- plugin: stack1/plugin_app
+  inputs:
+    example: value1
+    any_number: 10
+    any_list: 
+        - item1
+        - item2
+- plugin: stack1/plugin_both
+  inputs:
+    example: value2
+    any_number: 11
+    any_list: 
+        - item1
+        - item2
