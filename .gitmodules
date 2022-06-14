@@ -1,3 +1,6 @@
 [submodule "igor_template_sample"]
 	path = igor_template_sample
 	url = https://github.com/stack-spot/igor_template_sample.git
+[submodule "igor_template_app_sample"]
+	path = igor_template_app_sample
+	url = https://github.com/stack-spot/igor_template_app_sample
