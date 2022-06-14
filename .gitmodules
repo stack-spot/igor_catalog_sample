@@ -4,3 +4,6 @@
 [submodule "igor_template_app_sample"]
 	path = igor_template_app_sample
 	url = https://github.com/stack-spot/igor_template_app_sample
+[submodule "igor_template_env_sample"]
+	path = igor_template_env_sample
+	url = https://github.com/stack-spot/igor_template_env_sample
