@@ -13,3 +13,6 @@
 [submodule "igor_plugin_app_sample"]
 	path = igor_plugin_app_sample
 	url = https://github.com/stack-spot/igor_plugin_app_sample
+[submodule "igor_plugin_env_sample"]
+	path = igor_plugin_env_sample
+	url = https://github.com/stack-spot/igor_plugin_env_sample
